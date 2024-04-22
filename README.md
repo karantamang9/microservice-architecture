@@ -1,6 +1,6 @@
 ![Untitled Diagram (2)](https://github.com/karantamang9/mycom/assets/159943424/707c0680-c285-4d59-b1a3-b689961322a8)
 ### AWS Microservice architecture for hyper-local grocery delivery company :
-                    It has leveraged many core AWS services to provide an agile, flexible, and scalable architecture. The following list outlines some of the AWS services used in the current generation of the solution: 
+                    It has leveraged many core AWS services to provide an agile, flexible, and scalable architecture. The following list outlines some of the AWS services used in the current generation of the solution.
 -   Amazon Elastic Kubernetes Service (Amazon EKS) clusters — for running scalable microservices.
 -   Amazon Aurora — a data store to leverage the benefits of serverless architectures and multiple replications.
 -   Mongo DB — so the open-source NoSQL database can run on EC2 clusters.
