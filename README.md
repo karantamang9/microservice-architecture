@@ -1,4 +1,4 @@
-![Untitled Diagram (2)](https://github.com/karantamang9/mycom/assets/159943424/707c0680-c285-4d59-b1a3-b689961322a8)
+![Untitled Diagram (3)](https://github.com/karantamang9/mycom/assets/159943424/9a167995-a54a-4239-9c4b-5a9cfd22c128)
 ### AWS Microservice architecture for hyper-local grocery delivery company :
 It has leveraged many core AWS services to provide an agile, flexible, and scalable architecture. The following list outlines some of the AWS services used in the current generation of the solution;
 -   Amazon Elastic Kubernetes Service (Amazon EKS) clusters — for running scalable microservices.
